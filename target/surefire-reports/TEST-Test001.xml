@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Test001" time="0.013" tests="2" errors="2" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master\target\test-classes;C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master\target\classes;C:\Users\缘绮\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\缘绮\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\缘绮\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\缘绮\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\缘绮\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\缘绮\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\缘绮\AppData\Local\Temp\surefire4726960454959315605\surefirebooter6730532612897627046.jar C:\Users\缘绮\AppData\Local\Temp\surefire4726960454959315605 2024-10-28T19-33-11_101-jvmRun1 surefire9242735865491627085tmp surefire_014552287926806825014tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master\target\test-classes;C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master\target\classes;C:\Users\缘绮\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\缘绮\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\缘绮\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\缘绮\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\缘绮\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\缘绮\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\缘绮"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\缘绮\AppData\Local\Temp\surefire4726960454959315605\surefirebooter6730532612897627046.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.4+7-LTS"/>
+    <property name="user.name" value="缘绮"/>
+    <property name="stdout.encoding" value="GBK"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-21.0.4+7"/>
+    <property name="localRepository" value="C:\Users\缘绮\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\缘绮\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.4"/>
+    <property name="user.dir" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\code\continuous-integration-master.zip_expanded\continuous-integration-master"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/缘绮/Downloads/eclipse-java-2024-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551/jre/bin/server;C:/Users/缘绮/Downloads/eclipse-java-2024-09-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551/jre/bin;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\CMake\bin;D:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;D:\Program Files\Matlab\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\缘绮\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\缘绮\AppData\Local\Programs\Python\Python310\;C:\Users\缘绮\AppData\Local\Microsoft\WindowsApps;C:\Users\缘绮\AppData\Roaming\npm;C:\Users\缘绮\.dotnet\tools;C:\Users\缘绮\Downloads\eclipse-java-2024-09-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="stderr.encoding" value="GBK"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="21.0.4+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testA" classname="Test001" time="0.01">
+    <error message="Unresolved compilation problem: &#10;	The declared package &quot;testcases&quot; does not match the expected package &quot;&quot;&#10;" type="java.lang.Error"><![CDATA[java.lang.Error: 
+Unresolved compilation problem: 
+	The declared package "testcases" does not match the expected package ""
+
+	at Test001.<init>(Test001.java:1)
+]]></error>
+  </testcase>
+  <testcase name="testB" classname="Test001" time="0">
+    <error message="Unresolved compilation problem: &#10;	The declared package &quot;testcases&quot; does not match the expected package &quot;&quot;&#10;" type="java.lang.Error"><![CDATA[java.lang.Error: 
+Unresolved compilation problem: 
+	The declared package "testcases" does not match the expected package ""
+
+	at Test001.<init>(Test001.java:1)
+]]></error>
+  </testcase>
+</testsuite>
